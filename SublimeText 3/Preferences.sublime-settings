@@ -3,4 +3,5 @@
 	"font_face": "Lucida Console",
     "font_size": 14,
     "highlight_line": true,
+    "hot_exit": false,
 }
